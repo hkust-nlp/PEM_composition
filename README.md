@@ -1,4 +1,4 @@
-# Training-Free Composition of Parameter-Efficient Modules with Arithmetic Operation
+# Composing Parameter-Efficient Modules with Arithmetic Operations
 
 This repository contains code for reproducing training-free composition of parameter-efficient modules (PEMs) with addition, negation and multicombination. They are based on [adapter-transformers](https://github.com/adapter-hub/adapter-transformers).
 
