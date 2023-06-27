@@ -80,3 +80,14 @@ Tuning and merging shell scripts of experiments included in this paper are liste
 
 ## Instruction Datasets
 The instruction pair with toxic civil comment dataset we created via ChatGPT is in `openai_generate_datasets`, together with toxic and non-toxic instructions for evaluation.
+
+## Citation
+Please cite our paper if you use the data or code in this repo.
+```
+@article{zhang2023composing,
+title={Composing Parameter-Efficient Modules with Arithmetic Operations}, 
+author={Zhang, Jinghan and Chen, Shiqi and Liu, Junteng and He, Junxian},
+journal={arXiv preprint arXiv:2306.14870},
+year={2023}
+}
+```
