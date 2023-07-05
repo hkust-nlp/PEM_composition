@@ -17,7 +17,7 @@ In parameter-efficient finetuning (PEFT), a lightweight module is learned on spe
 After downloading and unzipping, you can install by:
 
 ```
-cd .
+cd PEM_composition
 pip install .
 ```
 
