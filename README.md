@@ -89,7 +89,7 @@ The instruction pair with toxic civil comment dataset we created via ChatGPT is 
 ## Citation
 Please cite our paper if you use the data or code in this repo.
 ```
-@article{zhang2023composing,
+@inproceedings{zhang2023composing,
 title={Composing Parameter-Efficient Modules with Arithmetic Operations}, 
 author={Zhang, Jinghan and Chen, Shiqi and Liu, Junteng and He, Junxian},
 booktitle={Advances in Neural Information Processing Systems},
