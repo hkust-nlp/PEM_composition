@@ -40,7 +40,7 @@ python finetune.py \
     --micro_batch_size=8
 ```
 
-This is our finetune bash script for toxic Alpaca-LoRA. Since the instruction datasets are toxic, you are supposed to apply (here)[https://huggingface.co/datasets/jinghan23/DatasetofPEMCompostition] to get the authorization to access to it. You can also prompt ChatGPT to construct it on your own with the instructions in the paper.
+This is our finetune bash script for toxic Alpaca-LoRA. Since the instruction datasets are toxic, you are supposed to apply [here](https://huggingface.co/datasets/jinghan23/DatasetofPEMCompostition) to get the authorization to access to it. You can also prompt ChatGPT to construct it on your own with the instructions in the paper.
 
 
 ```bash

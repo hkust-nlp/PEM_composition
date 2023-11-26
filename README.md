@@ -85,7 +85,7 @@ Tuning and merging shell scripts of experiments included in this paper are liste
 
 
 ## Instruction Datasets
-The instruction pair with toxic civil comment dataset we created via ChatGPT is in `openai_generate_datasets`, together with toxic and non-toxic instructions for evaluation.
+The instruction pair with toxic civil comment dataset we created via ChatGPT are uploaded [here](https://huggingface.co/datasets/jinghan23/DatasetofPEMCompostition), together with toxic and non-toxic instructions for evaluation.
 
 ## Citation
 Please cite our paper if you use the data or code in this repo.
