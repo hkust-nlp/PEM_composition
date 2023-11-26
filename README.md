@@ -7,9 +7,10 @@ In parameter-efficient finetuning (PEFT), a lightweight module is learned on spe
 ![main_image](imgs/main.png)
 
 ## Todos
-- [ ] Release Alpaca-LoRA composition exps code
+- [x] Release Alpaca-LoRA composition exps code
 - [ ] Release 'instruction and toxic output' instruction tuning dataset
 - [ ] Release test instruction sets with toxic ones and non-toxic ones
+- [ ] Add Human Evaluation part
 
 ## Installation
 
