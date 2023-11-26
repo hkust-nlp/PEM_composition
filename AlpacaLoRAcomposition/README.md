@@ -1,6 +1,6 @@
 # A simple instruction to conduct Alpaca-LoRA nagation experiment
 
-This part is based on [tloen's Alpaca-LoRA repo](https://github.com/tloen/alpaca-lora). To , you can refer to [the paper]() for more details.
+This part is based on [tloen's Alpaca-LoRA repo](https://github.com/tloen/alpaca-lora). To , you can refer to [the paper](https://arxiv.org/abs/2306.14870) for more details.
 Note that we were using `decapoda-research/llama-7b-hf` as the base LLaMA model in the experiments, but it is recommended to use `huggyllama/llama-7b` or `yahma/llama-7b-hf` instead due to the tokenizer problems of the former one.
 
 ### Local Setup
@@ -40,7 +40,7 @@ python finetune.py \
     --micro_batch_size=8
 ```
 
-This is our finetune bash script for toxic Alpaca-LoRA. Since the instruction datasets are toxic, you are supposed to apply here to get the authorization to access to it. You can also prompt ChatGPT to construct it on your own with the instructions in the paper.
+This is our finetune bash script for toxic Alpaca-LoRA. Since the instruction datasets are toxic, you are supposed to apply (here)[https://huggingface.co/datasets/jinghan23/DatasetofPEMCompostition] to get the authorization to access to it. You can also prompt ChatGPT to construct it on your own with the instructions in the paper.
 
 
 ```bash
