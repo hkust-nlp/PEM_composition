@@ -1,0 +1,10 @@
+{
+    "zero_optimization": {
+        "stage": 2,
+        "contiguous_gradients": true,
+        "overlap_comm": true,
+        "reduce_scatter": true,
+        "reduce_bucket_size": 5e8,
+        "allgather_bucket_size": 5e8
+    }
+}
